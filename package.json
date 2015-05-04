@@ -1,0 +1,35 @@
+{
+  "name": "scroll-media",
+  "version": "0.1.0",
+  "description": "Control videos or audio based on scroll position. Similiar to Apple's iPhone 6 landing page design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/souporserious/scroll-media"
+  },
+  "keywords": [
+    "modal",
+    "popup",
+    "dialog"
+  ],
+  "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souporserious/scroll-media/issues"
+  },
+  "homepage": "https://github.com/souporserious/scroll-media",
+  "dependencies": {
+    "autoprefixer-core": "^5.1.8",
+    "browser-sync": "^2.5.2",
+    "chai": "^2.2.0",
+    "es6-promise": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.1",
+    "gulp-postcss": "^5.0.0",
+    "gulp-sass": "^1.3.3",
+    "mocha": "^2.2.1"
+  }
+}
